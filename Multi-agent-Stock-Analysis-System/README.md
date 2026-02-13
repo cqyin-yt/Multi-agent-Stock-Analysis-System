@@ -115,8 +115,8 @@ MaSAS/
 ### 步骤 1: 克隆项目
 
 ```bash
-git clone https://github.com/164149043/AlphaCouncil-local.git
-cd MaSAS
+git clone https://github.com/cqyin-yt/Multi-agent-Stock-Analysis-System.git
+cd Multi-agent-Stock-Analysis-System
 ```
 
 ### 步骤 2: 安装依赖
